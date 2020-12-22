@@ -33,6 +33,8 @@ image: serverlesspolska/serverless-framework:2.16
 * [Serverless Framework 2.16.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.16) - tag: `2.16` - 2020/12/22
 * [Serverless Framework 2.4.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.4) - tag: `2.4` - 2020/12/17
 
+You can view ready images on **Docker Hub** at https://hub.docker.com/r/serverlesspolska/serverless-framework.
+
 
 # Side notes
 ## Compatibility with serverless-iam-roles-per-function
