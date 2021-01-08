@@ -22,7 +22,7 @@ image: serverlesspolska/serverless-framework # it resolves `latest`
 image: serverlesspolska/serverless-framework:latest
 ```
 
-If you need specific version just enter instead `latest`:
+If you need specific version just enter `tag number` (i.e. `2.16`) instead of `latest`:
 ```YAML
 image: serverlesspolska/serverless-framework:2.16
 
@@ -30,6 +30,9 @@ image: serverlesspolska/serverless-framework:2.16
 
 # Available versions
 
+Based on Serverless Framework [versions](https://github.com/serverless/serverless/releases):
+
+* [Serverless Framework 2.17.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.17) - tag: `2.17` - 2020/12/30
 * [Serverless Framework 2.16.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.16) - tag: `2.16` - 2020/12/22
 * [Serverless Framework 2.4.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.4) - tag: `2.4` - 2020/12/17
 
