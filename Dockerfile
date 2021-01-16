@@ -1,7 +1,7 @@
 FROM node:12.20-alpine
 
 # Install Serverless Framework
-RUN npm install -g serverless@2.18.0
+RUN npm install -g serverless@2.19.0
 
 ENV GLIBC_VER=2.31-r0
 
