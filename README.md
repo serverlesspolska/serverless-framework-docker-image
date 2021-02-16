@@ -32,6 +32,7 @@ image: serverlesspolska/serverless-framework:2.16
 
 Based on Serverless Framework [versions](https://github.com/serverless/serverless/releases):
 
+* [Serverless Framework 2.24.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.23) - tag: `2.24` - 2021/02/16
 * [Serverless Framework 2.23.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.23) - tag: `2.23` - 2021/02/08
 * [Serverless Framework 2.22.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.22) - tag: `2.22` - 2021/02/02
 * [Serverless Framework 2.21.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.21) - tag: `2.21` - 2021/01/26
