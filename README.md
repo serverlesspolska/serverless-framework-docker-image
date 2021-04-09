@@ -32,24 +32,25 @@ image: serverlesspolska/serverless-framework:2.16
 
 Based on Serverless Framework [versions](https://github.com/serverless/serverless/releases):
 
-* [Serverless Framework 2.31.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.32) - tag: `2.32` - 2021/03/30
-* [Serverless Framework 2.31.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.31) - tag: `2.31` - 2021/03/23
-* [Serverless Framework 2.30.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.30) - tag: `2.30` - 2021/03/16
-* [Serverless Framework 2.29.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.29) - tag: `2.29` - 2021/03/09
-* [Serverless Framework 2.28.7](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.28) - tag: `2.28` - 2021/03/04
-* [Serverless Framework 2.27.1](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.27) - tag: `2.27` - 2021/02/25
-* [Serverless Framework 2.26.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.26) - tag: `2.26` - 2021/02/24
-* [Serverless Framework 2.25.2](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.25) - tag: `2.25` - 2021/02/18
-* [Serverless Framework 2.24.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.24) - tag: `2.24` - 2021/02/16
-* [Serverless Framework 2.23.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.23) - tag: `2.23` - 2021/02/08
-* [Serverless Framework 2.22.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.22) - tag: `2.22` - 2021/02/02
-* [Serverless Framework 2.21.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.21) - tag: `2.21` - 2021/01/26
-* [Serverless Framework 2.20.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.20) - tag: `2.20` - 2021/01/21
-* [Serverless Framework 2.19.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.19) - tag: `2.19` - 2021/01/15
-* [Serverless Framework 2.18.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.18) - tag: `2.18` - 2021/01/07
-* [Serverless Framework 2.17.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.17) - tag: `2.17` - 2020/12/30
-* [Serverless Framework 2.16.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.16) - tag: `2.16` - 2020/12/22
-* [Serverless Framework 2.4.0](https://github.com/serverlesspolska/serverless-framework-docker-image/releases/tag/2.4) - tag: `2.4` - 2020/12/17
+* [Serverless Framework 2.33.1](https://github.com/serverless/serverless/releases/tag/v2.33.1) - tag: `2.33` - 2021/04/03
+* [Serverless Framework 2.32.1](https://github.com/serverless/serverless/releases/tag/v2.32.1) - tag: `2.32` - 2021/03/30
+* [Serverless Framework 2.31.0](https://github.com/serverless/serverless/releases/tag/v2.31.0) - tag: `2.31` - 2021/03/23
+* [Serverless Framework 2.30.0](https://github.com/serverless/serverless/releases/tag/2.30.0) - tag: `2.30` - 2021/03/16
+* [Serverless Framework 2.29.0](https://github.com/serverless/serverless/releases/tag/2.29.0) - tag: `2.29` - 2021/03/09
+* [Serverless Framework 2.28.7](https://github.com/serverless/serverless/releases/tag/2.28.0) - tag: `2.28` - 2021/03/04
+* [Serverless Framework 2.27.1](https://github.com/serverless/serverless/releases/tag/2.27.0) - tag: `2.27` - 2021/02/25
+* [Serverless Framework 2.26.0](https://github.com/serverless/serverless/releases/tag/2.26.0) - tag: `2.26` - 2021/02/24
+* [Serverless Framework 2.25.2](https://github.com/serverless/serverless/releases/tag/2.25.0) - tag: `2.25` - 2021/02/18
+* [Serverless Framework 2.24.0](https://github.com/serverless/serverless/releases/tag/2.24.0) - tag: `2.24` - 2021/02/16
+* [Serverless Framework 2.23.0](https://github.com/serverless/serverless/releases/tag/2.23.0) - tag: `2.23` - 2021/02/08
+* [Serverless Framework 2.22.0](https://github.com/serverless/serverless/releases/tag/2.22.0) - tag: `2.22` - 2021/02/02
+* [Serverless Framework 2.21.0](https://github.com/serverless/serverless/releases/tag/2.21.0) - tag: `2.21` - 2021/01/26
+* [Serverless Framework 2.20.0](https://github.com/serverless/serverless/releases/tag/2.20.0) - tag: `2.20` - 2021/01/21
+* [Serverless Framework 2.19.0](https://github.com/serverless/serverless/releases/tag/2.19.0) - tag: `2.19` - 2021/01/15
+* [Serverless Framework 2.18.0](https://github.com/serverless/serverless/releases/tag/2.18.0) - tag: `2.18` - 2021/01/07
+* [Serverless Framework 2.17.0](https://github.com/serverless/serverless/releases/tag/2.17.0) - tag: `2.17` - 2020/12/30
+* [Serverless Framework 2.16.0](https://github.com/serverless/serverless/releases/tag/2.16.0) - tag: `2.16` - 2020/12/22
+* [Serverless Framework 2.4.0](https://github.com/serverless/serverless/releases/tag/2.4.0) - tag: `2.4` - 2020/12/17
 
 You can view ready images on **Docker Hub** at https://hub.docker.com/r/serverlesspolska/serverless-framework.
 
