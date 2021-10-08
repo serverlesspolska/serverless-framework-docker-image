@@ -21,7 +21,7 @@ jobs:
       run: |
         docker login -u $DOCKER_USER -p $DOCKER_PASSWORD 
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag serverlesspolska/serverless-framework:$(date +%s)
+      run: docker build . --file Dockerfile --tag serverlesspolska/serverless-framework:v2.60
       
     - name: Docker Push
       run: docker push serverlesspolska/serverless-framework:v2.60
